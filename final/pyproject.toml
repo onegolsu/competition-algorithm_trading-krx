@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "krx_competition_20"
+version = "1.0"
+authors = [
+    {name = "jackmappotion"},
+    {email = "jackmappotion@naver.com"},
+]
+description = "KRX Competition 20"
+readme = "README.md"
+requires-python = ">=3.10"
